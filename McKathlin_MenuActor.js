@@ -57,7 +57,7 @@ McKathlin.MenuActor = McKathlin.MenuActor || {};
  *   cursor jumping behavior is turned OFF when a weapon or armor is selected
  *   in the Buy Window.
  * 
- * Any of these three features can be set to true or false by changing the
+ * Any of these features can be set to true or false by changing the
  * corresponding plugin parameters.
  * 
  * * The plugin parameter Keep Skill Page allows you to keep the skill type
